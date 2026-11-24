@@ -10,7 +10,7 @@ Projetar, configurar e validar uma infraestrutura corporativa operando em pilha 
 
 ### Equipamentos Utilizados
 * **Roteador Central:** Cisco 2911 (`Router-Central`)
-* **Switches de Acesso:** 2x Cisco 2960 (`Switch-A` e `Switch-B`)
+* **Switches de Acesso:** 2x Switch-PT (`Switch-A` e `Switch-B`)
 * **Estações de Trabalho:** 3x PCs (`PC-A1`, `PC-A2` na LAN A e `PC-B1` na LAN B)
 * **Servidor de Serviços:** 1x Servidor (`Server-DNS-Web` na LAN B)
 

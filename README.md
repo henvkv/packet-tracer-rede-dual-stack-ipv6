@@ -48,10 +48,12 @@ Projetar, configurar e validar uma infraestrutura corporativa operando em pilha 
 
 ### 1. Conectividade Dual-Stack (`ping` IPv4 e IPv6)
 Testes de alcance entre estações da LAN A e os dispositivos da LAN B nos dois protocolos com 0% de perda de pacotes:
+
 ![Testes de Ping Dual-Stack](ping-dual-stack.png)
 
 ### 2. Auditoria de Interfaces e Rotas IPv6 (`CLI`)
 Verificação via terminal do roteador Cisco 2911 confirmando os endereços Global Unicast, Link-Local (`FE80::`) e o estado ativo das interfaces:
+
 ![Interfaces IPv6](show-ipv6-route.png)
 
 ### 3. Resolução DNS e Acesso Web

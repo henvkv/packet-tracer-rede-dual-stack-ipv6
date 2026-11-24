@@ -52,7 +52,7 @@ Testes de alcance entre estações da LAN A e os dispositivos da LAN B nos dois 
 ![Testes de Ping Dual-Stack](ping-dual-stack.png)
 
 ### 2. Auditoria de Interfaces e Rotas IPv6 (`CLI`)
-Verificação via terminal do roteador Cisco 2911 confirmando os endereços Global Unicast, Link-Local (`FE80::`) e o estado ativo das interfaces:
+Verificação via terminal do roteador Cisco 2911 confirmando os endereços Global Unicast, Link-Local (`FE80::`) e o estado ativo (`up/up`) das interfaces:
 
 ![Interfaces IPv6](show-ipv6-route.png)
 
